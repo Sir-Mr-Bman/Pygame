@@ -1,6 +1,6 @@
 # [ Python Game for ComputerScience ]
 # Written by Brennan Macaig.
-# Copyright (C) 2014, Brennan Macaig.
+# Copyright (C) 2014, Brennan Bman
 # This file is protected under the GNU GPL v3
 # Please see the GPL file distributed with this
 # software for more information. 
