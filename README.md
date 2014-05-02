@@ -1,3 +1,6 @@
 PYGAME
-FOR COMPSCI 2014
 ======================
+
+Do not distribute.
+
+This source code is protected under the MIT license.
